@@ -1,6 +1,6 @@
 # About This Project
 
-This project is an extension to the Boogle Word Search game created for a Java II Class
+- This project is an extension to the Boogle Word Search game created for a Java II Class
 
 # How the Project was Expanded and What was Learned
 
