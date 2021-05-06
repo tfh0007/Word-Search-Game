@@ -2,7 +2,7 @@
 
 This project is an extension to the Boogle Word Search game created for a Java II Class
 
-# How the Project was Expanded and What was Learned
+# How the Project was Expanded and What Was Learned
 
 - Learned how to create graphical interfaces using Jframes
 - Used action listeners to make the program interactable
